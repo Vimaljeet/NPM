@@ -1,0 +1,22 @@
+{
+  "name": "binarysearch-vjsb",
+  "version": "1.0.1",
+  "description": "This is binary search by VjSb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "npm-binarysearch",
+    "binarysearch"
+  ],
+  "author": "Vimaljeet Singh Bhachu",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "profitlossformulanpm": "^1.0.0"
+  }
+}
